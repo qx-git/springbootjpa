@@ -8,6 +8,8 @@ public class SpringbootjpaApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(SpringbootjpaApplication.class, args);
+
+        System.out.println("333333");
     }
 
 }
