@@ -10,7 +10,9 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-
+/**
+ * ceaahi aii
+ */
 @RestController
 @RequestMapping("/customPerson")
 public class Person2Controller {
