@@ -10,11 +10,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import java.util.List;
 
-/**
- * @author zhangjian
- * @email 13120082225@163.com
- * @date 2020/5/11
- */
+
 @RestController
 @RequestMapping("/customPerson")
 public class Person2Controller {
