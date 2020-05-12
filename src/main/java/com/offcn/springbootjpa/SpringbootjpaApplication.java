@@ -10,6 +10,7 @@ public class SpringbootjpaApplication {
         SpringApplication.run(SpringbootjpaApplication.class, args);
 
         System.out.println("333333");
+        System.out.println("4.0啊哈哈");
     }
 
 }
